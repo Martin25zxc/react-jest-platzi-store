@@ -1,4 +1,3 @@
-import actions from '../../actions';
 import reducer from '../../reducers';
 import ProductMock from '../../__mocks__/ProductMock';
 
